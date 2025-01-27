@@ -10,4 +10,6 @@ Once this is built, copy the packages created within the `ios/GodotSubscription/
 
 Then paste these 2 packages in this package within the `bin/` folder.
 
-Then open `project.godot`, export the project to iOS, setup targets and capabilities within XCode and run.
+Then open `project.godot`, go to the `ios_subscription` script and place the IDs correctly.
+
+Finally, export the project to iOS, setup targets and capabilities within XCode and run.
